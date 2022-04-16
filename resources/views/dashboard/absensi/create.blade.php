@@ -57,7 +57,7 @@
                             required hidden>
                             <option value="{{$request->get('waktu_halaqoh')}}" selected>{{$request->get('waktu_halaqoh')}}</option>
                         </select>
-                        <button type="submit" name="absen" value="Save!" class="btn btn-primary w-100 text-nowrap">Input Data
+                        <button type="submit" name="absen" value="Save!" class="btn btn-primary w-100 text-nowrap">Input Data Baru
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                                 class="bi bi-send" viewBox="0 0 16 16">
                                 <path
